@@ -10,6 +10,6 @@
   - [Plus one](https://leetcode.com/problems/plus-one/) : [Solution](Plus-one.py)
 ### Lvl 2
   - [BattleDev Nov 2020 - 1](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code?cts_id=70) : [Solution](BattleDev-novembre-2020-exo1.py)
-  - [Custom game of life](https://www.codingame.com/ide/puzzle/custom-game-of-life)
+  - [Custom game of life](https://www.codingame.com/ide/puzzle/custom-game-of-life) : [Solution](Custom-game-of-life.py)
 ### Lvl 3
   - [Permutation sequence](https://leetcode.com/problems/permutation-sequence/) (sans itertools)
