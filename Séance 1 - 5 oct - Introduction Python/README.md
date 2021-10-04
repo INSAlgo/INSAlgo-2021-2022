@@ -3,7 +3,7 @@
 ## Slides
 ## Exercices
 ### Lvl 1
-  - [Solve me first](https://www.hackerrank.com/challenges/solve-me-first/problem)
+  - [Solve me first](https://www.hackerrank.com/challenges/solve-me-first/problem) : [Solution](solve-me-first.py)
   - [BattleDev juin 2021 - 1 - Préparation minutieuse](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code?cts_id=76)
   - [Power of Thor episode 1](https://www.codingame.com/ide/puzzle/power-of-thor-episode-1)
   - [Plus one](https://leetcode.com/problems/plus-one/)
