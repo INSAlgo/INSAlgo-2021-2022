@@ -6,8 +6,8 @@
   - [Solve me first](https://www.hackerrank.com/challenges/solve-me-first/problem) : [Solution](solve-me-first.py)
   - [BattleDev juin 2021 - 1 - Préparation minutieuse](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code?cts_id=76) : [Solution](Preparation-minutieuse.py)
   - [Power of Thor episode 1](https://www.codingame.com/ide/puzzle/power-of-thor-episode-1) : [Solution](Power-of-thor-ep-1.py)
+  - [Number line jump](https://www.hackerrank.com/challenges/kangaroo/problem) : [Solution](Number-line-jump.py)
   - [Plus one](https://leetcode.com/problems/plus-one/) : [Solution](Plus-one.py)
-  - [Number line jump](https://www.hackerrank.com/challenges/kangaroo/problem)
 ### Lvl 2
   - [BattleDev Nov 2020 - 1](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code?cts_id=70)
   - [Custom game of life](https://www.codingame.com/ide/puzzle/custom-game-of-life)
