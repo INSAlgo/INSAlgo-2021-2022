@@ -12,4 +12,4 @@
   - [BattleDev Nov 2020 - 1](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code?cts_id=70)
   - [Custom game of life](https://www.codingame.com/ide/puzzle/custom-game-of-life)
 ### Lvl 3
-  - [Permutation sequence](https://leetcode.com/problems/permutation-sequence/)(sans itertools)
+  - [Permutation sequence](https://leetcode.com/problems/permutation-sequence/) (sans itertools)
