@@ -1,6 +1,7 @@
 # Séance 1 - 5 Octobre 2021
 # Introduction à Python
 ## Slides
+  - [Slides](Cours 1 - Bases de Python 2021.pdf)
 ## Exercices
 ### Lvl 1
   - [Solve me first](https://www.hackerrank.com/challenges/solve-me-first/problem) : [Solution](solve-me-first.py)
