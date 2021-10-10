@@ -9,3 +9,4 @@
 ### Lvl 2
   - [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem) : [Solution](flatland-space-stations.py)
 ### Lvl 3
+  - [Shadow of the Knight Episode 1](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1) : [Solution](shadow-of-the-knight-ep-1.py)
