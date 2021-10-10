@@ -4,7 +4,7 @@
   - [Slides]
 ## Exercices
 ### Lvl 1
-  - [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) : [Solution]
+  - [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) : [Solution](running-time-and-complexity.py)
 ### Lvl 2
   
 ### Lvl 3
