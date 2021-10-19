@@ -12,4 +12,4 @@
   
 ### Lvl 3
   - [The power sum](https://www.hackerrank.com/challenges/the-power-sum/problem) : [Solution]()
-  - [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) : [Solution]()
+  - [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) : [Solution](Different-Ways-to-Add-Parentheses.py)
