@@ -1,7 +1,7 @@
 # Séance 3 - 19 Octobre 2021
 # Recursivité
 ## Slides
-  - [Slides]()
+  - [Slides](Cours3-Recursion.pdf)
 ## Exercices
 ### Lvl 1
   - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) : [Solution](fibonacci-number.py)
