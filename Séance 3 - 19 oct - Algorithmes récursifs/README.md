@@ -13,5 +13,5 @@
   - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) : [Solution](Reverse-Linked-List.py)
   
 ### Lvl 3
-  - [The power sum](https://www.hackerrank.com/challenges/the-power-sum/problem) : [Solution]()
+  - [The power sum](https://www.hackerrank.com/challenges/the-power-sum/problem) : [Solution](power-sum.py)
   - [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) : [Solution](Different-Ways-to-Add-Parentheses.py)
