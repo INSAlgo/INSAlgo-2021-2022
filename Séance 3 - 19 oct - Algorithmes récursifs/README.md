@@ -5,7 +5,7 @@
 ## Exercices
 ### Lvl 1
   - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) : [Solution]()
-  - [The power of two](https://leetcode.com/problems/power-of-two/submissions/)
+  - [The power of two](https://leetcode.com/problems/power-of-two/submissions/) Try a recursion method!
   - [Count all possible paths from top left to bottom right](https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right3011/1#)
 ### Lvl 2
   - [508. Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/) : [Solution]()
