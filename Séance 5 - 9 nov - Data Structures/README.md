@@ -4,4 +4,5 @@
   - [Slides](Cours5-DataStructures.pdf)
 ## Exercices
 ### Lvl 1
+  - [2D Array](https://www.hackerrank.com/challenges/2d-array/problem) : [Solution](2DArrays.py)
   - [Expressions parenthésées](https://www.codingame.com/ide/puzzle/brackets-extreme-edition) : [Solution](expressions-parenthésées.py) (Stack)
