@@ -12,3 +12,4 @@
   - [La Bataille](https://www.codingame.com/ide/puzzle/winamax-battle) : [Solution](bataille.py)
 ### Lvl 3
   - [BattleDev novembre 2020 - Ex3](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code?cts_id=70) : [Solution](battledev-nov-20-3.py)
+  - [Truck Tour](https://www.hackerrank.com/challenges/truck-tour/problem) : [Solution](truck-tour.py)
