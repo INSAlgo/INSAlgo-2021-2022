@@ -8,4 +8,5 @@
   - [Keyboard Row](https://leetcode.com/problems/keyboard-row/) : [Solution](keyboard-row.py)
   - [Expressions parenthésées](https://www.codingame.com/ide/puzzle/brackets-extreme-edition) : [Solution](expressions-parenthésées.py) (Stack)
 ### Lvl 2
+  - [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) : [Solution](find-and-replace-pattern)
   - [La Bataille](https://www.codingame.com/ide/puzzle/winamax-battle) : [Solution](bataille.py)
