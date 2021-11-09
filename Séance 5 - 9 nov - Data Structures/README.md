@@ -10,3 +10,5 @@
 ### Lvl 2
   - [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) : [Solution](find-and-replace-pattern.py)
   - [La Bataille](https://www.codingame.com/ide/puzzle/winamax-battle) : [Solution](bataille.py)
+### Lvl 3
+  - [BattleDev novembre 2020 - Ex3](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code?cts_id=70) : [Solution](battledev-nov-20-3.py)
