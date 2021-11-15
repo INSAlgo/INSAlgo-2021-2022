@@ -6,5 +6,6 @@
 ### Lvl 1
   - [Icecream parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem) : [Solution](icecreamparlor.py)
 ### Lvl 2
+  - [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) : [Solution](LetterCasePermutation.py)
 
 ### Lvl 3
