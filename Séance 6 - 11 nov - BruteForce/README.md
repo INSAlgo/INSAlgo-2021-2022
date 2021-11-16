@@ -11,3 +11,5 @@
   - [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) : [Solution](LetterCasePermutation.py)
 
 ### Lvl 3
+
+##BONUS: le [SecretSantaChallenge](https://github.com/INSAlgo/SecretSantaChallenge)
