@@ -5,6 +5,7 @@
 ## Exercices
 ### Lvl 1
   - [Icecream parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem) : [Solution](icecreamparlor.py)
+  - [Two sum](https://leetcode.com/problems/two-sum/) : [Solution](twosum.py)
   - [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) : [Solution](PermutationSequence.py)
 
 ### Lvl 2
