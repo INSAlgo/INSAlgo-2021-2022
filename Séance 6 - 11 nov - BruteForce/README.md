@@ -8,6 +8,7 @@
   - [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) : [Solution](PermutationSequence.py)
 
 ### Lvl 2
+  - [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) : [Solution](triangleArea.py)
   - [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) : [Solution](LetterCasePermutation.py)
 
 ### Lvl 3
