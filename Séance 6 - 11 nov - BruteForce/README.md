@@ -12,6 +12,4 @@
 
 ### Lvl 3
 
-##BONUS
-
-Le [SecretSantaChallenge](https://github.com/INSAlgo/SecretSantaChallenge)
+## BONUS: Le [SecretSantaChallenge](https://github.com/INSAlgo/SecretSantaChallenge)
