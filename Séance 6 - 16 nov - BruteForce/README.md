@@ -1,4 +1,4 @@
-# Séance 6 - 11 Novembre 2021
+# Séance 6 - 16 Novembre 2021
 # BruteForce
 ## Slides
   - [Slides](Cours6-BruteForce.pdf)
