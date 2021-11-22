@@ -8,6 +8,8 @@
 
 ### Lvl 2
 
+  - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) : [Solution](GenerateParentheses.py)
+
 ### Lvl 3
 
   - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) : [Solution](SudokuSolver.py)
