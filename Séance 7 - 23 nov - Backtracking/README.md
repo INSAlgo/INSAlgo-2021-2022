@@ -12,4 +12,5 @@
 
 ### Lvl 3
 
+  - [N-Queens II](https://leetcode.com/problems/n-queens-ii/) : [Solution](NQueens2.py)
   - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) : [Solution](SudokuSolver.py)
