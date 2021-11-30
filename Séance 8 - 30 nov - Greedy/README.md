@@ -10,6 +10,5 @@
 ### Lvl 2
  - [Candies](https://www.hackerrank.com/challenges/candies/problem) : [Solution](Candies.py)
  - [The gift](https://www.codingame.com/ide/puzzle/the-gift) : [Solution](the-gift.py)
-
-### Lvl 3
+ - [Chief-hopper](https://www.hackerrank.com/challenges/chief-hopper/problem) : [Solution](chief-hopper.py)
 
