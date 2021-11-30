@@ -1,3 +1,4 @@
+# strategy : get the most expensive flowers when the multiplier is low and the cheapest when the multiplier is high
 def getMinimumCost(k, c):
     c.sort()
     cout=0
