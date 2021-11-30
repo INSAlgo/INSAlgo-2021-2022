@@ -6,6 +6,8 @@
 ### Lvl 1
 
 ### Lvl 2
+ - [Candies](https://www.hackerrank.com/challenges/candies/problem) : [Solution](Candies.py)
+
 
 ### Lvl 3
 
