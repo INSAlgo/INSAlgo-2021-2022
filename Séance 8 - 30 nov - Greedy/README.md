@@ -9,7 +9,7 @@
  - [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem) : [Solution](luck.py)
 ### Lvl 2
  - [Candies](https://www.hackerrank.com/challenges/candies/problem) : [Solution](Candies.py)
-
+ - [The gift](https://www.codingame.com/ide/puzzle/the-gift) : [Solution](the-gift.py)
 
 ### Lvl 3
 
