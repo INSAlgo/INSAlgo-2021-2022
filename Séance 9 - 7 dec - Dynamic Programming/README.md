@@ -4,6 +4,7 @@
   - [Slides](Cours9-DynamicProgramming.pdf)
 ## Exercices
 ### Lvl 1
+ - [Tribonacci](https://leetcode.com/problems/n-th-tribonacci-number/) : [Solution](tribonacci.py)
  - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) : [Solution](climbStairs.py)
 
 ### Lvl 2
