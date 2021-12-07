@@ -4,6 +4,7 @@
   - [Slides](Cours9-DynamicProgramming.pdf)
 ## Exercices
 ### Lvl 2
+ - [Coin change](https://www.hackerrank.com/challenges/coin-change/problem) : [Solution](coinChange.py)
  - [Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem) : [Solution](knapsack.py)
 
 ### Lvl 3
