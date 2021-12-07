@@ -7,4 +7,5 @@
  - [Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem) : [Solution](knapsack.py)
 
 ### Lvl 3
+ - [Sam and substrings](https://www.hackerrank.com/challenges/sam-and-substrings/problem) : [Solution](sam-and-substrings.py)
 
