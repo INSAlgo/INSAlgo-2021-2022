@@ -15,3 +15,5 @@
  - [Sam and substrings](https://www.hackerrank.com/challenges/sam-and-substrings/problem) : [Solution](sam-and-substrings.py)
  - [Construct the array](https://www.hackerrank.com/challenges/construct-the-array/problem) : [Solution](Construct-the-array.py)
 
+\frac{\frac{x}{1}}{x - y}
+
