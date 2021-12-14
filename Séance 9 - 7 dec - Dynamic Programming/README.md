@@ -16,4 +16,5 @@
  - [Construct the array](https://www.hackerrank.com/challenges/construct-the-array/problem) : [Solution](Construct-the-array.py)
 
 \frac{\frac{x}{1}}{x - y}
+$\frac{\frac{x}{1}}{x - y}$
 
