@@ -6,6 +6,7 @@
 ### Lvl 1
  - [Learn to use Counter](https://www.hackerrank.com/challenges/collections-counter/problem) : [Solution](counter.py)
  - [Battledev nov 2020 Ex 1](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code?cts_id=70) : [Solution](bd-11-2020-Ex1.py)
+ - [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) : [Solution](letter_case_permutation.py)
 
 ### Lvl 2
 
