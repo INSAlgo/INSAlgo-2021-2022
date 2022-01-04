@@ -10,6 +10,7 @@
 ### Lvl 2
 
  - [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)
+ - [AOC 21 Day 03](https://adventofcode.com/2021/day/03)
 
 ### Lvl 3
 
