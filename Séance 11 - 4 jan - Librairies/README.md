@@ -7,6 +7,7 @@
  - [Learn to use Counter](https://www.hackerrank.com/challenges/collections-counter/problem) : [Solution](counter.py)
  - [Battledev nov 2020 Ex 1](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code?cts_id=70) : [Solution](bd-11-2020-Ex1.py)
  - [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) : [Solution](letter_case_permutation.py)
+ - [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem) : [Solution](alternating_characters.py)
 
 ### Lvl 2
 
