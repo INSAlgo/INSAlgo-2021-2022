@@ -9,3 +9,7 @@
 
 ### Lvl 2
 
+### Lvl 3
+
+ - [Dijkstra: Shortest Reach 2](https://www.hackerrank.com/challenges/dijkstrashortreach/problem)
+
