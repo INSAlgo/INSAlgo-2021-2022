@@ -9,11 +9,11 @@
 
 ### Lvl 2
 
- - [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)
- - [AOC 21 Day 03](https://adventofcode.com/2021/day/03)
+ - [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/) : [Solution](most_frequent_subtree_sum.py)
+ - [AOC 21 Day 03](https://adventofcode.com/2021/day/03) : [Solution](AOC21_03.py)
 
 ### Lvl 3
 
- - [AOC 21 Day 14](https://adventofcode.com/2021/day/14)
+ - [AOC 21 Day 14](https://adventofcode.com/2021/day/14) : [Solution](AOC21_14.py)
  - [Dijkstra: Shortest Reach 2](https://www.hackerrank.com/challenges/dijkstrashortreach/problem)
 
