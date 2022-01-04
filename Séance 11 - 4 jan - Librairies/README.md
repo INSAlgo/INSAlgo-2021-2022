@@ -1,7 +1,7 @@
 # Séance 11 - 4 Janvier 2022
 # Librairies
 ## Slides
-  - [Slides]
+  - [Slides](Cours11-PythonLibraries.pdf)
 ## Exercices
 ### Lvl 1
  - [Learn to use Counter](https://www.hackerrank.com/challenges/collections-counter/problem) : [Solution](counter.py)
