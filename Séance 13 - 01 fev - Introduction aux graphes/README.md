@@ -12,3 +12,7 @@
 
   - [Find if path exists in graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) : [Solution](pathExists.py)
   - [Maximum depth of binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) : [Solution](depthBinaryTree.py)
+
+### Lvl 3
+
+  - [number of islands](https://leetcode.com/problems/number-of-islands/) : [Solution](numberOfIslands.py)
