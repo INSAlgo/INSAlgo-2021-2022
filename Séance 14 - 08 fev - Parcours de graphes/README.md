@@ -13,6 +13,7 @@
 ### Lvl 2
 
   - [Path Sum](https://leetcode.com/problems/path-sum/) : [Solution](pathSum.py)
+  - [Path Sum II](https://leetcode.com/problems/path-sum-ii/) : [Solution](pathSum2.py)
 
 ### Lvl 3
 
