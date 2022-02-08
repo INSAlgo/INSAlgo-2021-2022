@@ -17,4 +17,5 @@
 
 ### Lvl 3
 
+  - [Path Sum III](https://leetcode.com/problems/path-sum-iii/) : [Solution](pathSum3.py)
   - [AOC21 day 12](https://adventofcode.com/2021/day/12) : [Solution](AOC21_12.py)
