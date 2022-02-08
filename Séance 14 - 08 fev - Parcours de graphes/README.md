@@ -8,7 +8,7 @@
 ### Lvl 1
 
   - [Maximum depth of binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) : [Solution](depthBinaryTree.py)
-  - [BattleDev](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code?cts_id=70#) : [Solution](BD_11_2020_Ex3.py)
+  - [BattleDev exo3](https://www.isograd-testingservices.com/FR/solutions-challenges-de-code?cts_id=70#) : [Solution](BD_11_2020_Ex3.py)
 
 ### Lvl 2
 
