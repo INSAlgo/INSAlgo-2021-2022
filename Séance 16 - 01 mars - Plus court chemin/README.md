@@ -9,6 +9,7 @@
 ### Lvl 2
 
   - [Dijkstra: Shortest Reach 2](https://www.hackerrank.com/challenges/dijkstrashortreach/problem) : [Solution]()
+  - [Cheapest Flight](https://leetcode.com/problems/cheapest-flights-within-k-stops/) : [Solution](flight.py)
 
 ### Lvl 3
 
