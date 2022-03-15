@@ -11,6 +11,7 @@
 
 ### Lvl 2
   - [Prim's (MST): Special Subtree](https://www.hackerrank.com/challenges/primsmstsub/problem) : [Solution](prim1.py)
+  - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) : [Solution Kuskal](MinCostConnectAllPointsKuskal.py)
 
 ## Note pour Kruskal
 
