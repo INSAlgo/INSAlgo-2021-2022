@@ -7,11 +7,9 @@
 ## Exercices
 
 ### Lvl 1
-
+  - [Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub/problem) : [Solution](ReallySpecialSubtree.py)
 
 ### Lvl 2
-
-  - [Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub/problem) : [Solution](ReallySpecialSubtree.py)
   - [Prim's (MST): Special Subtree](https://www.hackerrank.com/challenges/primsmstsub/problem) : [Solution](prim1.py)
 
 ## Note pour Kruskal
