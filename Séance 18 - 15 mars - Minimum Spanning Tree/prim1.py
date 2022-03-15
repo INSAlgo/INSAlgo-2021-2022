@@ -1,41 +1,23 @@
 def prims(n, edges, start):
+    # Write your code here
+    adj=[[] for _ in range(n+1)]
+    for edge in edges:
+        adj[edge[0]].append((edge[1],edge[2]))
+        adj[edge[1]].append((edge[0],edge[2]))
     
-    #Parsing
-    dic = {}
-    for i in range(len(edges)):
-        if(edges[i][0] not in dic):
-            dic[edges[i][0]] = [[edges[i][1],edges[i][2]]]
-        else:
-            dic[edges[i][0]].append([edges[i][1],edges[i][2]])
-            
-        if(edges[i][1] not in dic):
-            dic[edges[i][1]] = [[edges[i][0],edges[i][2]]]
-        else:
-            dic[edges[i][1]].append([edges[i][0],edges[i][2]])
+    nodesInTree = {start}
     
-    #Algo Prim
-    tree = set()
-    tree.add(start)
-    cost = 0
-    
-    for i in range(n-1):
+    availableEdges = []
+    for edge in adj[start]:
+        heapq.heappush(availableEdges,(edge[1],start,edge[0]))
+    rep=0
+    while(len(nodesInTree)<n):
+        currentEdge=heapq.heappop(availableEdges)
         
-        edge = None
-        mini = math.inf
-        
-        
-        for u in tree:
-            tab = dic[u]
-            
-            for t in tab:
-                if t[0] in tree:
-                    continue
-                
-                if mini > t[1]:
-                    mini = t[1]
-                    edge = t[0]
-                    
-        cost += mini
-        tree.add(edge)
-        
-    return(cost)
+        if currentEdge[2] not in nodesInTree:
+            nodesInTree.add(currentEdge[2])
+            rep+=currentEdge[0]
+            for edge in adj[currentEdge[2]]:
+                if edge[0] not in nodesInTree:
+                    heapq.heappush(availableEdges,(edge[1],currentEdge[2],edge[0]))
+    return rep
