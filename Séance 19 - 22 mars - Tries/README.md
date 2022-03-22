@@ -10,6 +10,10 @@
 
   - [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) : [Solution](ImpleTrie.py)
 
+### Lvl 2
+
+  - [Search suggestions system](https://leetcode.com/problems/search-suggestions-system/) : [Solution](SearchSuggSys.py)
+
 ### Lvl 3
 
   - [Word Search II](https://leetcode.com/problems/word-search-ii/) : [Solution](WordSearch2.py)
